@@ -6,3 +6,9 @@ langchain-anthropic
 python-dotenv
 pydantic
 duckduckgo-search
+ddgs>=9,<10
+chromadb>=0.5,<1.0
+langchain-classic>=1,<2
+langchain-ollama
+psycopg2-binary
+cryptography
